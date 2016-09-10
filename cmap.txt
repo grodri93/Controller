@@ -1,0 +1,35 @@
+Button 0 = square
+Button 1 = X
+Button 2 = O
+Button 3 = Triangle
+Button 4 = L1
+Button 5 = R1
+Button 6 = L2
+Button 7 = R2
+Button 8 = share
+Button 9 = options
+Button 10 = left stick
+Button 11 = right stick
+Button 12 = ps button
+Button 13 =  trackpad
+
+
+LEFT Thumbstick					left-right, bot-up
+	Axis 0         x (-, +)
+	Axis 1         y (+, -) 
+RIGHT Thumbstick
+	Axis 2 
+	Axis 5 
+LEFT TRIGGER 
+	Axis 3         -1 -> 1
+RIGT TRIGGER
+	Axis 4			-1 -> 1
+Trackpad         center ()
+	Axis 7  x
+	Axis 8  y
+
+Dpad
+	UP      0, 1
+	DOWN    0, -1
+	LEFT   -1, 0
+	RIGHT   1, 0
